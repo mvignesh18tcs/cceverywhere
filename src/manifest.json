@@ -1,0 +1,21 @@
+{
+    "testId": "004a51fa-3c06-4d6b-a9ae-2d40dc365f09",
+    "name": "Video renditions",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ]
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html"
+        }
+    ]
+}
