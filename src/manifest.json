@@ -1,0 +1,21 @@
+{
+    "testId": "1d835b1e-8c3c-426b-a1ad-4059ad9373c4",
+    "name": "Template Test",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ]
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html"
+        }
+    ]
+}
